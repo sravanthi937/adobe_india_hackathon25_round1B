@@ -1,12 +1,4 @@
-Great! Since your GitHub repository is specifically named:
 
-> **[`adobe_india_hackathon25_round1B`](https://github.com/sravanthi937/adobe_india_hackathon25_round1B)**
-
-Here's a clean and **professional README** tailored for this repo. It highlights the goal, structure, usage, and instructions in a polished way.
-
----
-
-### ✅ Final `README.md` for GitHub Repo: `adobe_india_hackathon25_round1B`
 
 ````markdown
 # 🧠 Adobe India Hackathon 2025 – Round 1B
@@ -158,9 +150,4 @@ Submission for Adobe India Hackathon 2025 – Round 1B
 * For offline use, pre-download `all-MiniLM-L6-v2` from HuggingFace.
 * Tested with Python 3.9 in Docker
 
-```
 
----
-
-Let me know if you'd like a **badge layout** (e.g., Docker | Python | MIT License), or you want a combined top-level `README.md` that links both Round 1A and 1B repositories.
-```
